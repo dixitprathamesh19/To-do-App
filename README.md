@@ -1,1 +1,43 @@
 # To-do-App
+
+# To-Do List Application
+
+A simple and elegant To-Do List web application built with HTML, CSS, and JavaScript. This app allows users to add, mark as complete, and delete tasks. Tasks are saved in the browser's local storage, so your list persists even after refreshing or closing the browser.
+
+## Features
+
+- Add new tasks to the list.
+- Mark tasks as completed with a visual strike-through effect.
+- Delete tasks with a clear "×" button.
+- Tasks are saved automatically to **localStorage** for persistence.
+- Responsive and clean user interface with smooth interactions.
+
+## Technologies Used
+
+- **HTML** for structure.
+- **CSS** for styling and layout.
+- **JavaScript** for interactivity and data management.
+
+## How to Use
+
+1. Type a new task in the input box.
+2. Click the **Add** button to add the task to your list.
+3. Click on a task to mark it as completed or uncompleted.
+4. Click the red "×" button to delete a task.
+5. Your tasks will be saved automatically and loaded when you revisit the page.
+
+## Installation
+
+1. Clone or download this repository.
+2. Open the `index.html` file in your preferred web browser.
+
+## Screenshots
+
+<img src="/To-do-App/images/image-1.png" alt="Interface" width="600"> Interface
+<br>
+<img src="/To-do-App/images/image-2.png" alt="Interface" width="600"> added List
+<br>
+<img src="/To-do-App/images/image-3.png" alt="Interface" width="600"> Completed task
+<br>
+<img src="/To-do-App/images/image-4.png" alt="Interface" width="600"> Removed Completed task
+<br>
