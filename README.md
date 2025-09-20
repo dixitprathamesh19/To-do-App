@@ -47,7 +47,7 @@ A simple and elegant To-Do List web application built with HTML, CSS, and JavaSc
 
 
 <div>
-  <img src="/To-do-App/images/image-1.png" alt="Main Interface" width="30%" style="margin-right: 10px;">
+  <img src="/images/image-1.png" alt="Main Interface" width="30%" style="margin-right: 10px;">
   <br>
   Interface.
   <br>
