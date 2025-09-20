@@ -33,11 +33,14 @@ A simple and elegant To-Do List web application built with HTML, CSS, and JavaSc
 
 ## Screenshots
 
-<img src="/To-do-App/images/image-1.png" alt="Interface" width="600"> Interface
-<br>
-<img src="/To-do-App/images/image-2.png" alt="Interface" width="600"> added List
-<br>
-<img src="/To-do-App/images/image-3.png" alt="Interface" width="600"> Completed task
-<br>
-<img src="/To-do-App/images/image-4.png" alt="Interface" width="600"> Removed Completed task
-<br>
+<!-- Example for img-1.png -->
+<img src="images/img-1.png" alt="Image 1" width="600">
+
+<!-- Example for img-2.png -->
+<img src="images/img-2.png" alt="Image 2" width="600">
+
+<!-- Example for img-3.png -->
+<img src="images/img-3.png" alt="Image 3" width="600">
+
+<!-- Example for img-4.png -->
+<img src="images/img-4.png" alt="Image 4" width="600">
