@@ -33,40 +33,29 @@ A simple and elegant To-Do List web application built with HTML, CSS, and JavaSc
 
 ## Screenshots
 
-<!-- Example for img-1.png -->
-<img src="images/img-1.png" alt="Image 1" width="600">
-
-<!-- Example for img-2.png -->
-<img src="images/img-2.png" alt="Image 2" width="600">
-
-<!-- Example for img-3.png -->
-<img src="images/img-3.png" alt="Image 3" width="600">
-
-<!-- Example for img-4.png -->
-<img src="images/img-4.png" alt="Image 4" width="600">
-
-
 <div>
   <!-- Image 1 -->
-  <img src="images/image-1.png" alt="Main Interface" width="30%" style="margin-right: 10px;">
+  <img src="images/image-1.png" alt="Main Interface of to-do-list" width="30%" style="margin-right: 10px;">
   <br>
   Interface.
   <br>
 
   <!-- Image 2 (make sure the extension is correct, e.g., .png) -->
-  <img src="images/image-2.png" alt="Weather Details" width="30%" style="margin-right: 10px;">
+  <img src="images/image-2.png" alt="task added in to-do-list" width="30%" style="margin-right: 10px;">
   <br>
-  Result.
+  Task added.
   <br>
 
   <!-- Image 3 -->
-  <img src="images/image-3.png" alt="Error Message" width="30%">
+  <img src="images/image-3.png" alt="Completed task in to-do-list" width="30%">
   <br>
-  Error after entering the wrong city name.
+  Completed tasks.
   <br>
 
   <!-- Image 4 -->
-  <img src="images/image-4.png" alt="Error Message" width="30%">
+  <img src="images/image-4.png" alt="Deleted task in to-do-list" width="30%">
+  <br>
+  After completeing the task that task is deleted.
   <br>
 </div>
 
