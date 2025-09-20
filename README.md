@@ -47,17 +47,26 @@ A simple and elegant To-Do List web application built with HTML, CSS, and JavaSc
 
 
 <div>
-  <img src="/images/image-1.png" alt="Main Interface" width="30%" style="margin-right: 10px;">
+  <!-- Image 1 -->
+  <img src="images/image-1.png" alt="Main Interface" width="30%" style="margin-right: 10px;">
   <br>
   Interface.
   <br>
-  <img src="/images/image-2" alt="Weather Details" width="30%" style="margin-right: 10px;">
+
+  <!-- Image 2 (make sure the extension is correct, e.g., .png) -->
+  <img src="images/image-2.png" alt="Weather Details" width="30%" style="margin-right: 10px;">
   <br>
   Result.
   <br>
-  <img src="/images/image-3" alt="Error Message" width="30%">
+
+  <!-- Image 3 -->
+  <img src="images/image-3.png" alt="Error Message" width="30%">
   <br>
   Error after entering the wrong city name.
-  <img src="/images/image-4" alt="Error Message" width="30%">
+  <br>
+
+  <!-- Image 4 -->
+  <img src="images/image-4.png" alt="Error Message" width="30%">
   <br>
 </div>
+
