@@ -51,11 +51,13 @@ A simple and elegant To-Do List web application built with HTML, CSS, and JavaSc
   <br>
   Interface.
   <br>
-  <img src="images/Weather_2.png" alt="Weather Details" width="30%" style="margin-right: 10px;">
+  <img src="/images/image-2" alt="Weather Details" width="30%" style="margin-right: 10px;">
   <br>
   Result.
   <br>
-  <img src="images/Weather_3.png" alt="Error Message" width="30%">
+  <img src="/images/image-3" alt="Error Message" width="30%">
   <br>
   Error after entering the wrong city name.
+  <img src="/images/image-4" alt="Error Message" width="30%">
+  <br>
 </div>
